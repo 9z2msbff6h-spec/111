@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1790851096149,
-  "appVersion": "6.9.87 (2026.09.27)",
+  "timestamp": 1790851100550,
+  "appVersion": "auto-backup",
   "tables": [
     "characters",
     "friendRequests",
@@ -114,53 +114,19 @@
     "_migration"
   ],
   "chunkedTables": {
-    "stickers": 2,
-    "messages": 123,
-    "summaryEntries": 2,
-    "roleStickers": 4,
-    "tmStories": 13,
-    "ttsAudio": 90,
-    "imageStore": 2
+    "messages": 1
   },
   "completedTables": {
     "characters": true,
     "friendRequests": true,
     "worldBooks": true,
+    "stickers": true,
     "kaomojis": true,
     "users": true,
     "userState": true,
     "userPosts": true,
-    "chatSettings": true,
-    "favorites": true,
-    "memory": true,
-    "callLogs": true,
-    "tmSessions": true,
-    "multiSceneSessions": true,
-    "multiSceneStories": true,
-    "multiSceneCastSettings": true,
-    "multiSceneSessionSettings": true,
-    "multiSceneSessionSummaries": true,
-    "customNoises": true,
-    "customBgm": true,
-    "flashMoments": true,
-    "groupSettings": true,
-    "userLinks": true,
-    "userMessages": true,
-    "forumItems": true,
-    "calendarData": true,
-    "customCalendars": true,
-    "groupChats": true,
-    "xinsheng": true,
-    "pomodoroSessions": true,
-    "couplesData": true,
-    "quickReplies": true,
-    "goingOutState": true,
-    "goingOutAreas": true,
-    "goingOutLogs": true,
-    "jiliData": true,
-    "jiliCreators": true,
-    "jiliPosts": true,
-    "jiliDMs": true
+    "chatSettings": true
   },
+  "source": "auto",
   "inProgress": true
 }
