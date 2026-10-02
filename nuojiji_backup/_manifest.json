@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790973855543,
+  "timestamp": 1790973875615,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -121,7 +121,7 @@
     "imageStore": 45,
     "thinkingStore": 5,
     "healthEntries": 5,
-    "fontStore": 8
+    "fontStore": 10
   },
   "completedTables": {
     "characters": true,
