@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791048543045,
+  "timestamp": 1791048561064,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -170,7 +170,9 @@
     "customGames": true,
     "customGameSaves": true,
     "customWidgetTemplates": true,
-    "customWidgetState": true
+    "customWidgetState": true,
+    "wallpapers": true,
+    "lifeRpgData": true
   },
   "source": "auto",
   "inProgress": true
