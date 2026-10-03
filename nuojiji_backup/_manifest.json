@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791053807457,
+  "timestamp": 1791053824045,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -202,7 +202,9 @@
     "studyOutlines": true,
     "studyQuizzes": true,
     "studyGoals": true,
-    "studyExams": true
+    "studyExams": true,
+    "studyCards": true,
+    "naiVibeCache": true
   },
   "source": "auto",
   "inProgress": true
