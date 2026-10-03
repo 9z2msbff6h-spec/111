@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791041535161,
+  "timestamp": 1791041543261,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -207,7 +207,8 @@
     "naiVibeCache": true,
     "walletTransactions": true,
     "walletData": true,
-    "shopOrders": true
+    "shopOrders": true,
+    "shopData": true
   },
   "source": "auto",
   "inProgress": true
